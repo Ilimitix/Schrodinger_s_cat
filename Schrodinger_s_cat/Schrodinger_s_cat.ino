@@ -1,6 +1,6 @@
 #include <LiquidCrystal.h>
 
-LiquidCrystal lcd(D0, D1, D2, D3, D4, D5);
+LiquidCrystal lcd(D0, D1, D2, D3, D4, D5); // named D0, D1,... cause using an ESP32. Can be called 2, 3, ... for PIN numbers
 int buttonState = 0;
 int lastButtonState = 0;
 
