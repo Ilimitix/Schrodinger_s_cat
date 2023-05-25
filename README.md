@@ -12,13 +12,13 @@ Designed to be integrated into a box -of shrodinger-, whose cover will operate a
 
 - When the box is opened (button released), the cat is displayed randomly dead or alive.
 
-## Characters
+## Typeface
 
-The liquidcrystal library offers the possibility of creating 8 personalized characters. 
+The liquidcrystal library offers the possibility of creating 8 personalized typeface. 
 
-The challenge was therefore to be able to display the caht in three distinct states: dead, alive or dead&alive with 8 characters. The variation could then only be played on a single character, that of the eyes and the muzzle would be perfect. 
+The challenge was therefore to be able to display the caht in three distinct states: dead, alive or dead&alive with 8 characters. 6 typefaces are needed to display a cute cat. The variation could then only be played on a single typeface, and that of the eyes and the muzzle would be perfect. 
 
-The rest was pixel art, playing with the unlit bands of the LCD screen to optimize the rendering of the cat.
+Each typeface is encoded byte by byte, with a very satisfying pixel art side.
 
 These characters are encoded as follows :
 
