@@ -22,7 +22,7 @@ The rest was pixel art, playing with the unlit bands of the LCD screen to optimi
 
 These characters are encoded as follows :
 
-`byte hg[8] = {B00000, B00000, B00010, B00101, B00100, B00110, B00111, B00010}; //top left
+byte hg[8] = {B00000, B00000, B00010, B00101, B00100, B00110, B00111, B00010}; //top left
 
 byte hm[8] = {B00000, B00000, B00000, B00000, B11111, B00000, B00000, B00000}; //top middle
 
@@ -36,7 +36,7 @@ byte bm2[8] = {B10001, B11011, B10001, B00100, B00000, B11111, B00100, B00000};
 
 byte bm3[8] = {B10001, B11001, B10000, B00100, B00000, B11111, B00100, B00000};
 
-byte bd[8] = {B01100, B00100, B11100, B01000, B10000, B00000, B10000, B01000}; //bottom right` 
+byte bd[8] = {B01100, B00100, B11100, B01000, B10000, B00000, B10000, B01000}; //bottom right
 
 
 ## Achievement
